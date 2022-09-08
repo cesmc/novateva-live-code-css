@@ -1,0 +1,22 @@
+.user {
+ width: 100%;
+ border-bottom: 1px solid gray;
+}
+
+form {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  justify-content: space-around;
+}
+
+input {
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 10px 50px 10px 10px;
+  width: 80%;
+}
+
+div {
+  width: 100%;
+}

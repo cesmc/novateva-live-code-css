@@ -1,0 +1,65 @@
+.atributos {
+  display: flex;
+  flex-direction: column;
+  color: gray;
+  border-bottom: 1px solid gray;
+  padding-bottom: 10px;
+}
+
+h2 {
+  color: black;
+}
+
+.atributos-name {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.atributos-id {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.atributos-celular {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+p {
+  display: flex;
+  padding: 15px;
+}
+
+img {
+  width: auto;
+  height: 15px;
+}
+
+button {
+  background-color: white;
+  border: 1px solid #3CA2EA;
+  border-radius: 5px;
+  padding: 5px;
+  height: 30px;
+  color: #3CA2EA;
+  padding: 0 25px;
+  width: 15%;
+}
+
+select {
+  background-color: white;
+  color: gray;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.constrains {
+  width: 60px;
+  height: 30px;
+  border: 1px solid gray;
+  margin-right: 5px;
+  border-radius: 5px;
+}
